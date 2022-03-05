@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tkubeka1993@gmail.com
+	name = Tshepo Kubeka
